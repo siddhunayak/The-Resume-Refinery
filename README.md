@@ -1,4 +1,4 @@
-Absolutely! Here's the **complete `README.md`** for your project:
+
 🎯 **AI Resume Tailor** – with modern formatting, full setup instructions, and GitHub-readiness.
 
 ---
