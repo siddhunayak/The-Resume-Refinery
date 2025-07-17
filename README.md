@@ -98,6 +98,7 @@ pip install -r requirements.txt
 🚀 Step 4: Run the Streamlit App
 ---
 To run the app locally:
+```
 streamlit run app.py
 ---
 
