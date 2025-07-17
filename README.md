@@ -34,10 +34,11 @@ An intelligent Streamlit application powered by **Google Gemini API** that helps
 ---
 
 🖼️ Application Preview
+---
 🌐 Click here to view the live app
-Or open the website directly:
-https://the-resume-refinery.onrender.com/
 
+https://the-resume-refinery.onrender.com/
+---
 
 ---
 
@@ -95,20 +96,13 @@ pip install -r requirements.txt
 ---
 
 🚀 Step 4: Run the Streamlit App
+---
 To run the app locally:
-
-bash
-Copy
-Edit
 streamlit run app.py
-By default, this will start a local server at:
+---
 
-arduino
-Copy
-Edit
-http://localhost:8501
-🌍 Deployed Version (No Setup Needed)
-You can try out the live version here:
+By default, this will start a local server at:
+🌍 Deployed Version (No Setup Needed):
 👉 https://the-resume-refinery.onrender.com
 
 
@@ -165,7 +159,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 👨‍💻 Author
 
-Developed by [Your Name](https://github.com/siddhunayak)
+Developed by [Siddhu Nayak](https://github.com/siddhunayak)
 Inspired by the need for **AI-first job readiness tools**.
 
 ---
@@ -178,9 +172,5 @@ Inspired by the need for **AI-first job readiness tools**.
 * ☁️ Deploy to Hugging Face or Streamlit Cloud
 
 ---
-
-🛠 Built with Python, Streamlit, and Gemini API — to help you land your dream job!
-
-```
 
 
