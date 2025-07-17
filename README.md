@@ -1,5 +1,5 @@
 
-🎯 **AI Resume Tailor** – with modern formatting, full setup instructions, and GitHub-readiness.
+🎯 **AI Resume Tailor**
 
 
 # 🧠 AI Resume Tailor ✨
@@ -142,14 +142,6 @@ Once the app is running, you can:
 "Act as a resume coach. Based on the following resume and job description, provide suggestions to improve:\n\nResume:\n{resume_text}\n\nJD:\n{job_description_text}"
 ```
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**.
-See the [LICENSE](./LICENSE) file for details.
-
----
 
 ## 🙌 Contributing
 
@@ -170,7 +162,5 @@ Inspired by the need for **AI-first job readiness tools**.
 * 🌐 Support for multiple languages
 * 🧠 More detailed skill categorization
 * ☁️ Deploy to Hugging Face or Streamlit Cloud
-
----
 
 
