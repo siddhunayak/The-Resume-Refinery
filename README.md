@@ -101,11 +101,6 @@ To run the app locally:
 streamlit run app.py
 ---
 
-By default, this will start a local server at:
-🌍 Deployed Version (No Setup Needed):
-👉 https://the-resume-refinery.onrender.com
-
-
 
 
 
