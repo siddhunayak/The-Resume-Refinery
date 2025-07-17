@@ -41,19 +41,53 @@ An intelligent Streamlit application powered by Google Gemini that helps you **a
 
 ## 🏁 Quick Start
 
-Follow these steps to get started locally:
+Follow these steps to get the project running on your local machine.
 
-### 1. Clone the Repository
+---
 
-```bash
-git clone https://github.com/your-username/AI-Resume-Tailor.git
-cd AI-Resume-Tailor
-2. Set Up Your Environment
-Create a .env file in the root directory and add your Google Gemini API key:
+### 🔐 Step 2: Set Up Your Environment
+
+Create a `.env` file in the root directory and add your **Google Gemini API key** in the following format:
+
+```env
+GOOGLE_API_KEY="YOUR_API_KEY_HERE"
+### 📦 Step 3: Install Dependencies
+
+Install all required Python packages using the following command:
 ```
-
 ```bash
-env
+pip install -r requirements.txt
+``
+Step 4: Run the Streamlit App
+Start the application with:
+
+bash
 Copy
 Edit
-GOOGLE_API_KEY="YOUR_API_KEY_HERE"
+streamlit run app.py
+Once started, open the provided URL in your browser (typically http://localhost:8501).
+
+📂 Supported File Formats
+.pdf — parsed using PyMuPDF
+
+.docx — parsed using python-docx
+
+.txt — read as plain text
+
+✅ You're All Set!
+Upload your resume and job description
+
+Get AI-extracted skills and a match score
+
+View matched and missing skills
+
+Receive a personalized summary and improvement suggestions
+
+📜 License
+This project is licensed under the MIT License.
+See the LICENSE file for more details.
+
+
+Ask ChatGPT
+
+
