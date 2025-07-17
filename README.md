@@ -1,9 +1,7 @@
 
 🎯 **AI Resume Tailor** – with modern formatting, full setup instructions, and GitHub-readiness.
 
----
 
-```markdown
 # 🧠 AI Resume Tailor ✨
 
 An intelligent Streamlit application powered by **Google Gemini** that helps you analyze, score, and tailor your resume for any job description. Whether you're optimizing for an ATS or impressing recruiters, this tool delivers powerful insights to elevate your resume.
