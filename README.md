@@ -4,7 +4,7 @@
 
 # 🧠 AI Resume Tailor ✨
 
-An intelligent Streamlit application powered by **Google Gemini** that helps you analyze, score, and tailor your resume for any job description. Whether you're optimizing for an ATS or impressing recruiters, this tool delivers powerful insights to elevate your resume.
+An intelligent Streamlit application powered by **Google Gemini API** that helps you analyze, score, and tailor your resume for any job description. Whether you're optimizing for an ATS or impressing recruiters, this tool delivers powerful insights to elevate your resume.
 
 ---
 
@@ -33,9 +33,11 @@ An intelligent Streamlit application powered by **Google Gemini** that helps you
 
 ---
 
-## 🖼️ Application Preview
+🖼️ Application Preview
+🌐 Click here to view the live app
+Or open the website directly:
+https://the-resume-refinery.onrender.com/
 
-![App Screenshot](https://via.placeholder.com/800x400.png?text=App+Preview)
 
 ---
 
@@ -64,7 +66,7 @@ Follow these steps to run the app locally:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AI-Resume-Tailor.git
+git clone https://github.com/Siddhunayak/AI-Resume-Tailor.git
 cd AI-Resume-Tailor
 ````
 
@@ -92,17 +94,26 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Step 4: Run the Streamlit App
+🚀 Step 4: Run the Streamlit App
+To run the app locally:
 
-Start the app with:
-
-```bash
+bash
+Copy
+Edit
 streamlit run app.py
-```
+By default, this will start a local server at:
 
-Then open your browser to the URL provided (typically `http://localhost:8501`).
+arduino
+Copy
+Edit
+http://localhost:8501
+🌍 Deployed Version (No Setup Needed)
+You can try out the live version here:
+👉 https://the-resume-refinery.onrender.com
 
----
+
+
+
 
 ## 📂 Supported File Formats
 
@@ -154,7 +165,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 👨‍💻 Author
 
-Developed by [Your Name](https://github.com/your-username)
+Developed by [Your Name](https://github.com/siddhunayak)
 Inspired by the need for **AI-first job readiness tools**.
 
 ---
@@ -172,11 +183,4 @@ Inspired by the need for **AI-first job readiness tools**.
 
 ```
 
----
 
-Let me know if you'd like:
-- A ready-to-go `requirements.txt`
-- Template code for `app.py`
-- Screenshots replaced with real images  
-Or anything else!
-```
