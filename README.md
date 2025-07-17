@@ -100,7 +100,7 @@ pip install -r requirements.txt
 To run the app locally:
 ```
 streamlit run app.py
----
+```
 
 
 
